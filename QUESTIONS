@@ -1,0 +1,8 @@
+AWS global infrastructure ; Region ; AZ ; local zone ; 
+Aws wavelength ; AWS outposts ; Edge locations ; cdn ; cloudfront ; Regional edge caches ; AWS certificate manager ; 
+How ssl and tls works ? What is encryption ? ; 
+Certificate authority ? 
+How to add acm to load balancer ? in what all resources we can use acm ? 
+AWS kms ? if we want key rotation of 1 yr then what to choose ? aws managed kms ? customer managed cmk ? data keys ? aws prefixed keys ? what to use to manage data outside of amazon ? 
+How to use cmk to encrypt data which is in your laptop ? 
+How to encrypt aws s3 bucket using aws kms ? 
