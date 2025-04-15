@@ -5,4 +5,11 @@ Certificate authority ?
 How to add acm to load balancer ? in what all resources we can use acm ? 
 AWS kms ? if we want key rotation of 1 yr then what to choose ? aws managed kms ? customer managed cmk ? data keys ? aws prefixed keys ? what to use to manage data outside of amazon ? 
 How to use cmk to encrypt data which is in your laptop ? 
-How to encrypt aws s3 bucket using aws kms ? 
+How to encrypt aws s3 bucket / rds using aws kms ? 
+use cmk to encrypt data which is in your computer 
+aws sts ? 
+waf ? How to specify load balancer to route53 resord using a record . 
+what is ip set ? what all resources can we protect with waf ? create a rule for ip set in waf , cloud hsm ? 
+what is snowball ? 
+what is server migration service in aws ? how sms works ? 
+aws organization ? service control policies ? consolidated billing ? how to make 1 aws account part of another aws account or how to add multiple aws accounts to 1 master aws account . 
