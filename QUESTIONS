@@ -13,3 +13,4 @@ what is ip set ? what all resources can we protect with waf ? create a rule for 
 what is snowball ? 
 what is server migration service in aws ? how sms works ? 
 aws organization ? service control policies ? consolidated billing ? how to make 1 aws account part of another aws account or how to add multiple aws accounts to 1 master aws account . 
+how to send message from sns to sqs , lambda , kinesis , https  . 
